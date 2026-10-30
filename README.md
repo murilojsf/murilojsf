@@ -8,7 +8,7 @@ If i found a problem in any system that I use, chances are that i'll test and up
 
 My main tech is Java Script and the Frameworks that I have most familiarity with are Cypress and Playwright
 
-I've a some pinned projects here, but my favorite was [Playwright&Cucumber]([https://seu-link-aqui.com](https://github.com/murilojsf/cucumber-playwright-bdd))
+I've a some pinned projects here, but my favorite was [Playwright&Cucumber](https://github.com/murilojsf/cucumber-playwright-bdd)
 
 Fun Facts:
 
