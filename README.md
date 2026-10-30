@@ -4,7 +4,7 @@ I'm Murilo, a QA engineer based in Brazil
 
 I test WebApps and APIs
 
-If i found a problem in any system that I use, chances are that i'll test and upload here
+If i find a problem in any system that I use, chances are that i'll test and upload here
 
 My main tech is Java Script and the Frameworks that I have most familiarity with are Cypress and Playwright
 
