@@ -16,7 +16,7 @@ Fun Facts:
 
   • Bleach is my favorite anime
 
-  • Hobbies:anime,gaming and Testing
+  • Hobbies:anime,gaming and testing
 <!--
 **murilojsf/murilojsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
